@@ -3,4 +3,4 @@ LABEL "Project"="Vprofile"
 LABEL "Author"="Vikas"
 
 RUN rm -rf /etc/nignx/conf.d/default.conf
-COPY nginxvproapp.conf /etc/nignx/conf.d/vproapp.conf
+COPY nginvproapp.conf /etc/nignx/conf.d/vproapp.conf
